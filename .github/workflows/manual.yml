@@ -1,0 +1,50 @@
+# This is a basic workflow that is manually triggered
+
+name: manual
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_run:
+    # Inputs the workflow accepts.
+    inputs: 'hello'
+# defaults:
+        # Friendly description to be shown in the UI instead of 'name'
+#        run: 'Person to greet'
+        # Default value if no value is explicitly provided
+#        default: 'World'
+       # Input has to be provided for the workflow to run
+#        required: 'true'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  greet:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Runs a single command using the runners shell
+    - name: Send greeting
+      run: echo "Hello ${{ github.event.inputs.name }}"
+    Print: "Get sources"
+  Description:" Get sources from a repository. Supports Git, TfsVC, and SVN repositories.:
+      runs-on: 1.0.0
+      id: I-Cat , @I-Cat
+      services: 
+        git version: 2.26.0 
+        git lfs version: 2.10.0
+        go version: 1.13.4
+        #GitHub:
+        #linux:
+        #amd64: 
+        Then:=>RUN: |
+         echo: git init "I-Cat/home/work/1/s"
+         echo: git remote add origin https://github.com/I-Cat/I-Cat.git
+         echo: git config gc.auto 0
+         echo: git config --get-all http.https://github.com/I-Cat/github.extraheader
+         echo: git config --get-all http.proxy
+         echo: git -c http.extraheader="AUTHORIZATION: basic ***" fetch --force --tags --prune --progress --no-recurse-submodules origin +refs/heads/*:refs/remotes/origin/* 
+    
+#+refs/pull/2298/merge:refs/remotes/pull/2298/merge
