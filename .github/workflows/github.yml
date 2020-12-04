@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: manual
+name: github
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
@@ -28,10 +28,10 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: echo "Hello ${{ github.event.inputs.name }}"
-    Print: "Get sources"
+  Print: ${{"Get sources"}}
   Description:" Get sources from a repository. Supports Git, TfsVC, and SVN repositories.:
       runs-on: 1.0.0
-      id: I-Cat , @I-Cat
+      name: ${{"I-Cat"}}
       services: 
         git version: 2.26.0 
         git lfs version: 2.10.0
