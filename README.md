@@ -30,6 +30,8 @@ ICat69126473
 
 Here are some ideas to get you started:
 
+https://google.dev/badges/profile/created-profile/created_profile.svg
+
 + 🔭 I’m currently working on ...
 + 🌱 I’m currently learning ...
 + 👯 I’m looking to collaborate on ...
@@ -38,4 +40,9 @@ Here are some ideas to get you started:
 + 📫 How to reach me: ...
 + 😄 Pronouns: ...
 + ⚡ Fun fact: ...
--->
+
+[![android-studio-beta](https://google.dev/badges/activity/android/install-android-studio-beta/badge.svg)
+[![install-android-studio](https://google.dev/badges/activity/android/install-android-studio/badge.svg)
+[![beta-user](https://google.dev/badges/events/beta/beta-user.svg)
+[![sdk-platform-tools](https://google.dev/badges/activity/android/sdk-platform-tools/badge.svg)
+[![created_profile](https://google.dev/badges/profile/created-profile/created_profile.svg)
