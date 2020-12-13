@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://github.com/I-Cat" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=I-Cat&title_color=333&text_color=777" alt="I-Cat's Stats" >
-      <img src="https://github-readme-stats.vercel.app/api?username=I-Cat-Kodi&title_color=333&text_color=777" alt="I-Cat-kodi's Stats" >
-    <img src="https://github-readme-stats.vercel.app/api?username=I-Cat-org&title_color=333&text_color=777" alt="I-Cat-org's Stats" >
-    <img src="https://github-readme-stats.vercel.app/api?username=I-Meow&title_color=333&text_color=777" alt="I-Meow's Stats" >
+      <img src="https://github-readme-stats.vercel.app/api?orgname=I-Cat-Kodi&title_color=333&text_color=777" alt="I-Cat-kodi's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?orgname=I-Cat-org&title_color=333&text_color=777" alt="I-Cat-org's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?orgname=I-Meow&title_color=333&text_color=777" alt="I-Meow's Stats" >
 
   </a>
 </p>
