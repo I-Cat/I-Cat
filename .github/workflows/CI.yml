@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: manual
+name: CI
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
@@ -21,17 +21,23 @@ jobs:
   # This workflow contains a single job called "greet"
   greet:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: Windows-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: echo "Hello ${{ github.event.inputs.name }}"
-    Print: "Get sources"
+     print: "Get sources"
   Description:" Get sources from a repository. Supports Git, TfsVC, and SVN repositories.:
       runs-on: 1.0.0
-      id: I-Cat , @I-Cat
+      strategy: |
+           ['I-Cat'] 
+           ['@I-Cat']
+      if: |
+           ['I-Cat']
+           ['@I-Cat'] 
+      Start:
       services: 
         git version: 2.26.0 
         git lfs version: 2.10.0
@@ -39,8 +45,13 @@ jobs:
         #GitHub:
         #linux:
         #amd64: 
+       #https://github.com/I-Cat/I-Cat/
         Then:=>RUN: |
-         echo: git init "I-Cat/home/work/1/s"
+         echo: set "PATH=%https://github.com/I-Cat/I-Cat/D:/%
+         echo: set "PATH=%APPDATA%/D;%~dp0;%PATH%"
+         echo: "%CD%/"=="%~dp0" cd / D:/ "%HOMEDRIVE%%HOMEPATH%"
+         echo: CMD.EXE
+         echo: git clone "https://github.com/I-Cat/I-Cat.git"
          echo: git remote add origin https://github.com/I-Cat/I-Cat.git
          echo: git config gc.auto 0
          echo: git config --get-all http.https://github.com/I-Cat/github.extraheader
