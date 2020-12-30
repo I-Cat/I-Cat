@@ -1,7 +1,7 @@
 name: Multiplatform Workflow
 on:
   push:
-    branches: [ main, test ]
+    branches: [ main ]
   pull_request:
   workflow_dispatch:
 
@@ -17,7 +17,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     env:
       TEST_MANIFEST: __tests__/manifests/timer.yaml
-      TEST_USER: tetchell
+      TEST_USER: icat
       TEST_NAMESPACE: tetchell-code
 
     steps:
