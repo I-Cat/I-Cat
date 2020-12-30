@@ -61,9 +61,10 @@ jobs:
           run: npm ci
 
         - name: Run ESLint
-          run: npm run lint
-          run: npm run bundle
+          run: |
+               npm run lint,
+               npm run bundle
 # run:
 # run:
-FI: EOF
+FIN: EOF
 
