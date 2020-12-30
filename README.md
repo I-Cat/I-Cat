@@ -18,14 +18,14 @@
   
   Fun stats courtesy of [git-badges](https://pufler.dev/git-badges) 
   
-  I'm a newbe @GitHub.com 
+  I'm a newbe I-Cat@GitHub.com 
+              @ICat69126473
 
-ICat69126473
 ## Howmany Repos =
 [![Repos Badge](https://badges.pufler.dev/repos/I-Cat)](https://badges.pufler.dev)
 
 <--
-**https://github.com/I-Cat/I-Cat** is a ✨ _special_ ✨ repository because this `README.md` (this file) appears on your GitHub profile.
+** https://github.com/I-Cat/I-Cat ** is a [✨_special_✨] repository because this 'README.md' (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
@@ -33,16 +33,24 @@ Here are some ideas to get you started:
 https://google.dev/badges/profile/created-profile/created_profile.svg
 
 + 🔭 I’m currently working on ...
-+ 🌱 I’m currently learning ...
-+ 👯 I’m looking to collaborate on ...
-+ 🤔 I’m looking for help with ...
-+ 💬 Ask me about ...
-+ 📫 How to reach me: ...
-+ 😄 Pronouns: ...
-+ ⚡ Fun fact: ...
 
++ 🌱 I’m currently learning ...
+
++ 👯 I’m looking to collaborate on ..
+
++ 🤔 I’m looking for help with ...
+
++ 💬 Ask me about ...
+
++ 📫 How to reach me: ...
+
++ 😄 Pronouns: ...
+
++ ⚡ Fun fact: ...
+'''
 [![android-studio-beta](https://google.dev/badges/activity/android/install-android-studio-beta/badge.svg)
 [![install-android-studio](https://google.dev/badges/activity/android/install-android-studio/badge.svg)
 [![beta-user](https://google.dev/badges/events/beta/beta-user.svg)
 [![sdk-platform-tools](https://google.dev/badges/activity/android/sdk-platform-tools/badge.svg)
 [![created_profile](https://google.dev/badges/profile/created-profile/created_profile.svg)
+'''
