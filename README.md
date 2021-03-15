@@ -25,9 +25,7 @@
 ## Howmany Repos =
 [![Repos Badge](https://badges.pufler.dev/repos/I-Cat)](https://badges.pufler.dev)
 
-<--
-** https://github.com/I-Cat/I-Cat ** is a [✨_special_✨] repository because this 'README.md' (this file) appears on your GitHub profile.
-
+< ** https://github.com/I-Cat/I-Cat ** is a [✨_special_✨] repository because this 'README.md' (this file) appears on your GitHub profile. >
 
 Here are some ideas to get you started:
 
