@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/I-Cat" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=I-Cat&title_color=333&text_color=777" alt="I-Cat's Stats" >
+    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?colorB=11a9f7">
   </a>
 </p>
 
