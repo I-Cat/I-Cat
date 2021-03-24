@@ -26,6 +26,30 @@ Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?colorB=Pink">
+  
+Hotkey:
+<kbd>⌘F</kbd>
+<kbd>⇧⌘F</kbd>
+Markup : <kbd>⌘F</kbd>
+
+Hotkey list:
+
+| Key | Symbol |
+| --- | --- |
+| Option | ⌥ |
+| Control | ⌃ |
+| Command | ⌘ |
+| Shift | ⇧ |
+| Caps Lock | ⇪ |
+| Tab | ⇥ |
+| Esc | ⎋ |
+| Power | ⌽ |
+| Return | ↩ |
+| Delete | ⌫ |
+| Up | ↑ |
+| Down | ↓ |
+| Left | ← |
+| Right | → |
 
 # Here are some ideas=💡  to get @I-Cat started: 😸
 
