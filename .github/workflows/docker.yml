@@ -13,10 +13,10 @@ jobs:
     steps:
 
       # Checkout buildah action github repository
-      - name: Checkout Buildah action
-        uses: actions/checkout@v2
+      - name: Checkout github actions
+        uses: actions/checkout@v1 ,actions/checkout@v2
         with:
-          path: "buildah-build"
+          path: "*"
 
       - name: Create Dockerfile
         run: |
@@ -24,10 +24,10 @@ jobs:
           FROM busybox
           RUN echo "hello world"
           EOF
-      # Build image using Buildah action
-      - name: Build Image
-        id: build_image
-        uses: ./buildah-build/
+      # Build image using  action
+     # - name: Build Image
+     #   id: build_image
+     #   uses: ./buildah-build/ actions/checkout@v2
         with:
           image: ${{ env.IMAGE_NAME }}
           tags: 'latest ${{ github.sha }}'
