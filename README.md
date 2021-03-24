@@ -46,6 +46,8 @@ https://google.dev/badges/profile/created-profile/created_profile.svg
 + 😄 Pronouns: ...
 
 + ⚡ Fun fact: ...
++ (Windows ⊞/Command ⌘)
+
 '''
 [![android-studio-beta](https://google.dev/badges/activity/android/install-android-studio-beta/badge.svg)
 [![install-android-studio](https://google.dev/badges/activity/android/install-android-studio/badge.svg)
