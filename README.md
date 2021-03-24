@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://github.com/I-Cat Class=rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=I-Cat&title_color=Purpple&text_color=777" alt="I-Cat's Stats" >
-    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?colorB=Pink">
   </a>
 </p>
 
@@ -26,7 +25,7 @@ Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?colorB=Pink">
 
 # Here are some ideas=💡  to get @I-Cat started: 😸
 
