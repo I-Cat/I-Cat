@@ -5,9 +5,9 @@ name: CI
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
 on:
-  workflow_run:
+    workflow_run:
     # Inputs the workflow accepts.
-    inputs: 'hello'
+    commit_comment: 'hello'
 # defaults:
         # Friendly description to be shown in the UI instead of 'name'
 #        run: 'Person to greet'
@@ -28,7 +28,7 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: echo "Hello ${{ github.event.inputs.name }}"
-     print: "Get sources"
+      shell: "bash"
   Description:" Get sources from a repository. Supports Git, TfsVC, and SVN repositories.:
       runs-on: 1.0.0
       strategy: |
@@ -37,7 +37,7 @@ jobs:
       if: |
            ['I-Cat']
            ['@I-Cat'] 
-      Start:
+      timeout-minutes: 10
       services: 
         git version: 2.26.0 
         git lfs version: 2.10.0
@@ -45,7 +45,7 @@ jobs:
         #GitHub:
         #linux:
         #amd64: 
-       #https://github.com/I-Cat/I-Cat/
+        #https://github.com/I-Cat/I-Cat/
         Then:=>RUN: |
          echo: set "PATH=%https://github.com/I-Cat/I-Cat/D:/%
          echo: set "PATH=%APPDATA%/D;%~dp0;%PATH%"
