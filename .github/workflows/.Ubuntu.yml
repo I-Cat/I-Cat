@@ -1,4 +1,4 @@
-Ci: Ubuntu.yml
+Ubuntu.yml :
 RUN: "Commit"
 ON:
   PUSH:
