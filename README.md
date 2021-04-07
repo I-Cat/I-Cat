@@ -3,9 +3,9 @@
 ## 😸 ~ I Meow ~ I Fix ~ I Make ~ 😸
 ## ~ Quotes I Like ~ Oly Furr-Ball ~ It is Meow ~
 ## ~ I may have a disability but it is my ability(s) that makes me [✨_AWSOME_✨] ~~
-[✨_https://github.com/I-Cat/I-Cat✨] is a [✨_special_✨] repository because this [File]('https://github.com/I-Cat/I-Cat/README.md') appears on your GitHub profile and every Commit Counts x2. 
+[✨_https://github.com/I-Cat/I-Cat✨] is a [✨_special_✨] repository because this [File]('https://github.com/I-Cat/I-Cat/README.md') appears on your GitHub profile and every single commit counts.
 
-[![✨I'm a new To Github✨] @I-Cat @I-Cat69126473  @github.com/I-Cat
+[![✨I'm a new To Github✨] (@I-Cat) (@I-Cat69126473)  (@github.com/I-Cat)
 <p align="center">
   <a href="https://github.com/I-Cat Class=rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=I-Cat&title_color=Purpple&text_color=777" alt="I-Cat's Stats" >
