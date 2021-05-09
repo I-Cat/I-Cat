@@ -72,7 +72,7 @@ TODO:
 [![created_profile] (https://google.dev/badges/profile/created-profile/created_profile.svg)
 
 ''
-                 .-.   .-.
+*                .-.   .-.
                 /   \ /   \ 
             .-. |    |    | .-.
            /   \ \  / \  / /   \
