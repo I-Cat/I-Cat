@@ -71,3 +71,19 @@ TODO:
 [![sdk-platform-tools] (https://google.dev/badges/activity/android/sdk-platform-tools/badge.svg)
 [![created_profile] (https://google.dev/badges/profile/created-profile/created_profile.svg)
 
+''
+                 .-.   .-.
+                /   \ /   \ 
+            .-. |    |    | .-.
+           /   \ \  / \  / /   \
+           |   |  '`.-.`'  |   |
+            \_.' .-`   `-. '._/
+              .-'         '-.
+             /               \
+             |   (@I-Cat)    |
+              \             /
+               '.___...___.'
+              
+              
+'''
+
