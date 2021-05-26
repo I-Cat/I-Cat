@@ -27,7 +27,8 @@ Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | [![CI](https://github.com/I-Cat/hooks/actions/workflows/simple.yml/badge.svg)](https://github.com/I-Cat/hooks/actions/workflows/simple.yml)  | <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?colorB=Pink">
-  
+
+Badge:(https://forum.xda-developers.com/data/achievements/icons/0/163.jpg?1612880544)
 Hotkey:
 <kbd>⌘F</kbd>
 <kbd>⇧⌘F</kbd>
@@ -62,7 +63,7 @@ https://google.dev/badges/profile/created-profile/created_profile.svg
 + 🤔 I’m looking for help with ...  Step One
 + 💬 Ask me about ...   Cats 😸
 + ⚡ Fun fact: ... (Windows ⊞ Button) (Command ⌘ Button) ⚡
-
++ ⚡ XDA Member 4 years
 
 TODO:
 [![android-studio-beta] (https://google.dev/badges/activity/android/install-android-studio-beta/badge.svg)
