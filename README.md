@@ -27,9 +27,12 @@ Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | Content Cell  | Content Cell
 Content Cell  | Content Cell  | [![CI](https://github.com/I-Cat/hooks/actions/workflows/simple.yml/badge.svg)](https://github.com/I-Cat/hooks/actions/workflows/simple.yml)  | <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?colorB=Pink">
++ XDA Member 4 Year badge !
+[![Badge](https://forum.xda-developers.com/data/achievements/icons/0/163.jpg?1612880544)
 
-Badge:(https://forum.xda-developers.com/data/achievements/icons/0/163.jpg?1612880544)
-Hotkey:
+*/*
+*
+Hotkeys:
 <kbd>⌘F</kbd>
 <kbd>⇧⌘F</kbd>
 Markup : <kbd>⌘F</kbd>
