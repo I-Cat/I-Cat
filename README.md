@@ -17,6 +17,21 @@
 💁[](https://github.com/I-Cat/I-Cat/discussions/new)
 <a href="https://linkedin.com/in/%%%%%%"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>  | <a href="https://twitter.com/ICat69126473"> <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/> | <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?colorB=11a9f7">
   
+📬 How to reach me: | <a href="https://linkedin.com/in/%%%%%%"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="26px"/>  | <a href="https://twitter.com/ICat69126473"> <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/> | <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?colorB=11a9f7">
+------------- | -------------  | ------------ | -------------
+ Howmany Repos| [![Repos Badge](https://badges.pufler.dev/repos/I-Cat)](https://badges.pufler.dev)
+  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?colorB=Pink">
 xxxx  
 ------------- | -------------  | ------------ | -------------
  Howmany Repos| [![Repos Badge](https://badges.pufler.dev/repos/I-Cat)](https://badges.pufler.dev)
