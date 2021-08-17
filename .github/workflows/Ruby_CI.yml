@@ -9,7 +9,7 @@ on:
 jobs:
   test:
 
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu- 20.04.2 LTS
 
     steps:
       - uses: actions/checkout@v1
@@ -19,3 +19,71 @@ jobs:
       - run: bundle install
       - name: Run tests
       - run: bundle exec rake
+
+
+        Current runner version: '2.280.2'
+        Operating System: Ubuntu- 20.04.2 LTS
+        Virtual Environment:
+        Environment: ubuntu-20.04
+        Version: 20210810.1
+        Included Software: https://github.com/actions/virtual-environments/blob/ubuntu20/20210810.1/images/linux/Ubuntu2004-README.md
+        Image Release: https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210810.1
+        Virtual Environment Provisioner: 1.0.0.0-master-20210802-2
+        GITHUB_TOKEN Permissions: =
+        Actions: write
+        Checks: write
+        Contents: write
+        Deployments: write
+        Discussions: write
+        Issues: write
+        Metadata: read
+        Packages: write
+        PullRequests: write
+        RepositoryProjects: write
+        SecurityEvents: write
+        Statuses: write
+  Print: "Prepare workflow directory"
+  Print: "Prepare all required actions"
+  Print: "Getting action download info"
+  Print: "Download action repository 'actions/checkout@v2'"
+  Print: "Download action repository 'ruby/setup-ruby@v1'"
+  
+  Tasks: actions/checkout@v2
+  with:
+    repository: github/I-Cat
+    token: ***
+    ssh-strict: true
+    persist-credentials: true
+    clean: true
+    fetch-depth: 1
+    lfs: false
+    submodules: false
+
+# Syncing repository: github/I-Cat
+# Working directory is '/home/runner/work/I-Cat/I-Cat'
+# /usr/bin/git version
+# git version 2.32.0
+# Deleting the contents of '/home/runner/work/I-Cat/I-Cat'
+# /usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+# /usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :
+# /usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+# /usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :
+# /usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+  
+Run: ruby/setup-ruby@v1
+  with:
+    ruby-version: default
+    bundler: default
+    bundler-cache: false
+    working-directory: .
+    cache-version: 0
+    Run: bundle install
+    echo: bundle install
+
+# git version 2.32.0
+# /usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+# /usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :
+# /usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+# http.https://github.com/.extraheader
+# /usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+# /usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :
