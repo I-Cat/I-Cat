@@ -87,3 +87,5 @@ Run: ruby/setup-ruby@v1
 # http.https://github.com/.extraheader
 # /usr/bin/git config --local --unset-all http.https://github.com/.extraheader
 # /usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :
+
+fi
